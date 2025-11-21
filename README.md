@@ -65,9 +65,9 @@ The Spark job (`healthcare_etl.py`) performs:
 
 ### 5. Analysis (BigQuery SQL)
 Sample insights include:
-- Average billing and length of stay by medical condition  
-- Revenue by insurance provider  
-- Billing patterns by admission type or hospital  
+- Revenue and cost profile by medical condition 
+- Length of stay stats by condition and admission type  
+- Top Insuarance providers per hospital 
 
 ## How to Run
 
